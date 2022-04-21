@@ -1,3 +1,31 @@
 .title{
     font-family: 'Playfair Display', serif;
+    font-size: 44px;
+    margin-bottom: 4em;
+    color: white;
+}
+.box{
+    padding: 2rem 4rem;
+    border-radius: 90px;
+    box-shadow: 10px 10px 15px rgba(255, 255, 255, 0.25);
+}
+#hexInput{
+    border: none;
+    background-color: rgb(255, 255, 255);
+    border-radius: 90px;
+    padding: .75rem;
+    box-shadow: 10px 10px 15px rgba(255, 255, 255, 0.25);
+    margin-bottom:20px;
+
+}
+.sliderText{
+    /* margin:40px; */
+    margin-bottom:600px;
+}
+.body{
+    background-color: rgb(6, 27, 31);
+}
+.content{
+    font-size: 1.5rem;
+    color: white;
 }
