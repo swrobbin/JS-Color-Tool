@@ -19,7 +19,7 @@
 #hexInput{
     font-size: 1.25rem;
     border: none;
-    background-color: rgb(255, 255, 255);
+    /* background-color: rgb(255, 255, 255); */
     border-radius: 90px;
     padding: .75rem;
     box-shadow: 10px 10px 15px rgba(255, 255, 255, 0.25);
@@ -30,7 +30,7 @@
     /* margin:40px; */
     margin-bottom:600px;
 }
-.body{
+body{
     background-color: rgb(6, 27, 31);
 }
 .content{
