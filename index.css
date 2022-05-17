@@ -1,9 +1,11 @@
+
 .title{
     font-family: 'Playfair Display', serif;
     font-size: 44px;
     margin-bottom: 4em;
     color: white;
     text-align: center;
+    /* background-color: #c6d5ac; */
 }
 * {
     font-family: 'Playfair Display', serif;
@@ -13,25 +15,23 @@
     color: white;
 }
 .box{
-    /* height: 100px;
-    width: 100%; */
+   
     padding: 2rem 4rem;
     border-radius: 90px;
     box-shadow: 10px 10px 15px rgba(255, 255, 255, 0.25);
+    background-color: #c6d5ac;
 }
 #hexInput{
     font-size: 1.25rem;
     border: none;
-    /* background-color: rgb(255, 255, 255); */
     border-radius: 90px;
     padding: .75rem;
-    box-shadow: 10px 10px 15px rgba(255, 255, 255, 0.25);
+    /* box-shadow: 10px 10px 15px rgba(255, 255, 255, 0.25); */
     margin-bottom:20px;
 
 }
 .sliderText{
-    /* margin:40px; */
-    margin-bottom:600px;
+    margin-bottom:60px;
 }
 body{
     background-color: rgb(6, 27, 31);
